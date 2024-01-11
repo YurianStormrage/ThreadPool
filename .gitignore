@@ -1,0 +1,15 @@
+*
+!*/
+!.gitignore
+!readme
+
+# make
+!makefile
+
+# headers
+!ring_buffer.hpp
+
+# sources
+
+# tests
+!construct_ring.cpp
